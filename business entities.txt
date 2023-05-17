@@ -1,0 +1,16 @@
+User:
+	 name,email,mobno
+seller:
+	name,email,mobno
+Project:
+	project no,project type, project price,project title 
+Staff:
+	project manager,mobno
+payment:
+	paymentid,user registration no, paymentdate, amount, transaction id,status
+
+Dashboard
+	Personal details,subscription details,listed car 
+wishlist
+feedback
+

@@ -1,0 +1,67 @@
+Document:System Requirement Specification Document
+ 
+Title:System Reqruiement Spefication for Online Project Management
+ 
+Team:
+Direct Customer, Indirect Customer,Architect, Business Analyst
+Quality Assurance Team,
+System Analyst
+ 
+Objective (Purpose):
+·  The online Project Management System for cars web application is intended to provide complete
+   solution for Buyers and sellers of users as well as internal users (Staff) through a single Gateway
+   using internet.
+·  It will enable the users to see  their project details through this website.
+Scope:
+·     This System allows users to list their projects on website based on their functionality.
+·     Buyers will be able to browse and connect with the project team as per their Requirements.
+·     The System  will be able to show live Business Operation statistics trends through Customized
+       dashboard for all members.
+
+
+Functional Requirement:-
+ users will able to submit feedback about services they recived.
+·user will be able to update his/ her personal information.
+·user will be to manage his profile maintained by system.
+·user will be able change his credentails if required.
+·users will be notified about his listings status through SMS, Email communication.
+·Seller will get complete information about his listings through a dashboard.
+
+
+Non-Functional Requirements:-
+- Security :
+· Registered user will be allowed to connect with management team.  
+· Each registerd user will be to access system  through authentication process.
+
+- Availability :
+.  uptime : 24*7 online webservice available.(for user as well as for anonymous user/visitors)
+
+- Portablility:
+·    PDA: Portable Device Application
+·    System will provide portable User Interface through  users will be able to acces
+     online project management portal.
+
+-Efficiency:
+· on specific occasions, maximum number of users will show interest to see their project
+  with same response time.
+·  System will contain Inventory , wishlist.
+
+-Safety:
+· Online project management portal will be secure from malicious attack, fishing.
+· Online project management portal functionalilites are protected from outside with proper
+  firewall configuration.
+· Online project management portal will be always kept updated with latest antivirus software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
